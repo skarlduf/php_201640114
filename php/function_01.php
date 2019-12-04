@@ -18,11 +18,10 @@ if(!function_exists("hello")) {
 if(!function_exists("hello")) {
     function hello()
     {
-        echo "그만해요 "; 
+        echo "반가와요 "; 
     }
 }
 
-hello();
 hello();
 
 

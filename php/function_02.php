@@ -4,7 +4,7 @@
 function hello($name="**",int $a, int $b):int
 {
     $sum = $a + $b;
-    echo "반가와요 ".$name . "=" . $sum. "<br>";
+    echo $a. "+". $b . "=" . $sum. "<br>";
     // 반환값
     return $sum;
 }
